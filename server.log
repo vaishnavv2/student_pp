@@ -1,0 +1,475 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:44:31] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:44:32] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'd:\\place-main\\place-main\\prediction_server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug: * Detected change in 'd:\\place-main\\place-main\\prediction_server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:54:12] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+ERROR:root:Unexpected error: Object of type int64 is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:54:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:58:55] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:58:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:03:36] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:03:36] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'd:\\place-main\\place-main\\prediction_server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:08:27] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:08:27] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:10:14] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:10:14] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:47] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:47] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:52] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:12:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:14:17] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:14:18] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 21:14:20] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:25:49] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:25:49] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:27:02] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:27:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:27:03] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'd:\\place-main\\place-main\\prediction_server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:29:33] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+ERROR:root:Unexpected error: Object of type int64 is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:29:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:32:32] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:32:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:32:44] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:32:44] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:33:10] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:33:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:33:35] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "oops" is 1
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:33:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:34:20] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "svn" is 2
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 23:34:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:16] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:17] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:22] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:28] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "tres" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:28] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "tres" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:30] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "tres" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 09:50:31] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:11:26] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:11:26] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:11:36] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:11:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:11:41] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:11:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:13:42] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:13:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:24:54] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "R" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:24:55] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "R" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:24:57] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "R" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:24:58] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:25:03] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:25:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:25:15] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:25:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:58:55] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:58:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:59:18] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:59:19] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:59:28] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "java" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 10:59:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:02:50] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:02:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:02:56] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:02:56] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:02:59] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:20:34] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:20:34] "POST /predict HTTP/1.1" 200 -
+ERROR:root:Unexpected error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:53:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+ERROR:root:Unexpected error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:53:18] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:55:22] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:55:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:55:32] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:55:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:57:49] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:57:49] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:18] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "Python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:27] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:27] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:36] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "oops" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:58:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:59:19] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "it skills" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:59:19] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:59:28] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "rest" is 3
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 11:59:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:03] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:11] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:22] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:04:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:05:34] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:05:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:05:44] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:05:44] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:07:52] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:07:52] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:08:55] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:08:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:11:05] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:11:05] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:11:14] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "hhyugg" is 1
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:11:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:13:32] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:13:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:14:13] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2024 12:14:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:36:10] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:36:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:36:18] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:36:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:37:04] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:37:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:38:35] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "html5" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:38:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:38:53] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "git" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:38:53] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:43:13] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:43:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:43:20] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:43:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:43:33] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:43:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:46:28] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:46:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:46:36] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:46:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:48:40] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:48:40] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:50:36] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:50:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:51:08] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 10:51:08] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:02:44] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:02:44] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:02:55] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:02:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:06:40] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:06:40] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:06:45] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:06:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:09:20] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:09:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:09:25] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:09:25] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:12:12] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:12:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:12:18] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:12:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:13:57] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:13:57] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:16:40] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:16:40] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:16:47] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:16:47] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:18:34] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:18:34] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:18:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:20:28] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:20:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:21:45] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:21:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:22:34] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:22:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:22:41] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:22:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:23:16] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2024 11:23:16] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:14:58] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:14:58] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:16:24] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:16:24] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:17:01] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "oops" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:17:01] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:17:11] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "devops" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:17:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:17:20] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "svd" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:17:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:18:32] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:18:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:25:55] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:25:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:26:14] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:26:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:26:21] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:26:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:29] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:29] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:49] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:49] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:58] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:58] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:36:58] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:09] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:09] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:16] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:16] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:16] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:16] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:37] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:37] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:37] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:43] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:43] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "python" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:43] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:44] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 13:41:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-912-162
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:34:21] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "DJANGO" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:34:21] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "DJANGO" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:34:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:34:38] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:34:38] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:34:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:35:22] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:35:22] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "django" is 4
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:35:22] "POST /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:35:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:35:27] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:Predicted score for course "r" is 1
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2024 14:35:27] "POST /predict HTTP/1.1" 200 -
